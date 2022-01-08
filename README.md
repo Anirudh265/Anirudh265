@@ -1,6 +1,6 @@
 
 
-<img align="center" alt="Coding" src="https://github.com/Anirudh265/Anirudh265/blob/main/Colorful%20Business%20Data%20General%20Linkedin%20Banner.png">
+<img align="center" src="https://github.com/Anirudh265/Anirudh265/blob/main/Colorful%20Business%20Data%20General%20Linkedin%20Banner.png">
 
 <!--# <p align='center'>Hi there 👋, I'm Anirudh</p> -->
 
