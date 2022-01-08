@@ -4,7 +4,7 @@
 
 <!--# <p align='center'>Hi there 👋, I'm Anirudh</p> -->
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anirudh-b-2807b61b1//)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/anirudh-b-2807b61b1/)
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='linkedin' height='40'>](mailto:anirudhbhasin265@gmail.com)
 [<img src='https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white' alt='linkedin' height='40'>](https://www.codechef.com/users/lucifer1612)
 
