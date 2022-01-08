@@ -3,7 +3,10 @@
 <img align="center" alt="Coding" src="https://github.com/Anirudh265/Anirudh265/blob/main/Colorful%20Business%20Data%20General%20Linkedin%20Banner.png">
 
 <!--# <p align='center'>Hi there 👋, I'm Anirudh</p> -->
-[<p align='center'>  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anirudh-b-2807b61b1/)  [<img src='https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white' alt='codechef' height='40'>](https://www.codechef.com/users/lucifer1612)  [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' height='40'>](mailto:anirudhbhasin265@gmail.com)</p>
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anirudh-b-2807b61b1//)
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='linkedin' height='40'>](mailto:anirudhbhasin265@gmail.com)
+[<img src='https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white' alt='linkedin' height='40'>](https://www.codechef.com/users/lucifer1612)
 
 ---
 
@@ -20,7 +23,7 @@
 
 ## Skills:
 <!-- --><br>
-<p float='left' align='center'>
+<p float='left'>
 <img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white' alt='codechef' height='40'>
 <img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white' alt='codechef' height='40'>
 <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen' alt='codechef' height='40'>
@@ -37,10 +40,20 @@
 
 
 ---
+## Stats:
+
 <p float='left'>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh265&show_icons=true)
+![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh265&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh265&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
  
 </p>
+
+---
+
+## Blogs:
+
+- [CYBER CRIME CASE STUDY WITH EMPHASIS CONFUSION MATRIX AND ITS TWO TYPES OF ERRORS](https://anibmytask5.blogspot.com/2021/06/crime-case-study-with-emphasis.html)<br>
+- [Creating the ML model in Docker Container ](https://anibmytask1.blogspot.com/2021/05/creating-ml-model-in-docker-container.html)<br>
+- [IMAGE PROCESSING IN PYTHON USING OpenCV](https://anibmytask4.blogspot.com/2021/06/processing-in-python-using-opencv.html)<br>
 
