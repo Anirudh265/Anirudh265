@@ -12,12 +12,8 @@
 
 ## About Me:
 <br>
-🔹I am a CS undergrad at <strong>National Institute of Technology, Srinagar</strong>. <br>
-🔹I like to code, learn new technologies and contribute to open source.
-
----
-
-🌱 I’m currently learning React Native and MongoDB 
+🔹I am a CS undergrad, currently working as a software developer at Samsung.</strong>. <br>
+🔹I like to code, learn new technologies and contribute to open source. 
  
  ---
 
